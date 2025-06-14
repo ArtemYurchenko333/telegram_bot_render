@@ -8,3 +8,4 @@ services:
     envVars:
       - key: BOT_TOKEN
         value: твой_токен_от_BotFather
+    runtime: python3.10
